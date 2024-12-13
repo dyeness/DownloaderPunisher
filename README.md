@@ -23,7 +23,7 @@
 
 
 # ENG
-# Program for downloading the repository, as well as quick updates to the [Punisher] mod(https://github.com/dyeness/trader_punisher).
+# Program for downloading the repository, as well as quick updates to the [Punisher](https://github.com/dyeness/trader_punisher).
 
 ## How to use:
 1. Download the current release and unzip it
