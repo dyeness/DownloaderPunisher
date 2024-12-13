@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oj1Lhu5vsUM=",
+  "success": true,
+  "projectFilePath": "E:\\Lessons\\PunisherDownloader\\PunisherDownloader\\PunisherDownloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\libgit2sharp\\0.31.0\\libgit2sharp.0.31.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\libgit2sharp.nativebinaries\\2.0.323\\libgit2sharp.nativebinaries.2.0.323.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.0\\microsoft.net.illink.tasks.9.0.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.0\\microsoft.netcore.app.runtime.win-x64.9.0.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.0\\microsoft.aspnetcore.app.runtime.win-x64.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
